@@ -1,2 +1,1 @@
-# GoLang_gRPC_Project
-Basic Go gRPC Server and Client
+## Basic Go gRPC Server and Client
